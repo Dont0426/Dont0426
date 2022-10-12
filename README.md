@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dont0426
-- It's a pleasure to finally be on this platorm. Here's a quick run-down of who i am, my name is Temidrie,I'm a young tech-enthusiast who's really passionate about Backend Development.I enjoy providing solutions to problems using my skill-sets.
+- It's a pleasure to finally be on this platorm. Here's a quick run-down of who i am, my name is Temidire,I'm a young tech-enthusiast who's really passionate about Backend Development.I enjoy providing solutions to problems using my skill-sets.
 - 🌱 I’m currently learning and major in Python/Django development and have over 5months of expeprience. I'm looking to collaborate on multiple projects (Both paid and un-paid).
 - 📫 My contact details: phone number - (+234) 8106387921
 - 📫 linkedin profile - https://www.linkedin.com/in/temidire-obafemi-006334148/
